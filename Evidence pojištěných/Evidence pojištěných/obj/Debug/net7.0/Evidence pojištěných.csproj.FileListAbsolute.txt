@@ -1,0 +1,54 @@
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.exe
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.deps.json
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.runtimeconfig.json
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.dll
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.pdb
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.csproj.AssemblyReference.cache
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.AssemblyInfoInputs.cache
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.AssemblyInfo.cs
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.csproj.CoreCompileInputs.cache
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.dll
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\refint\Evidence pojištěných.dll
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.pdb
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.genruntimeconfig.cache
+C:\Users\ERBANJ\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\ref\Evidence pojištěných.dll
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.exe
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.deps.json
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.runtimeconfig.json
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.dll
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.pdb
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.csproj.AssemblyReference.cache
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.AssemblyInfoInputs.cache
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.AssemblyInfo.cs
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.csproj.CoreCompileInputs.cache
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.dll
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\refint\Evidence pojištěných.dll
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.pdb
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.genruntimeconfig.cache
+C:\Users\Jirka\OneDrive - MÚZO Praha s.r.o\Plocha\ITNETWORK\Csharp\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\ref\Evidence pojištěných.dll
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.exe
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.deps.json
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.runtimeconfig.json
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.dll
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.pdb
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.csproj.AssemblyReference.cache
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.GeneratedMSBuildEditorConfig.editorconfig
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.AssemblyInfoInputs.cache
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.AssemblyInfo.cs
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.csproj.CoreCompileInputs.cache
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.dll
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\refint\Evidence pojištěných.dll
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.pdb
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.genruntimeconfig.cache
+P:\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\ref\Evidence pojištěných.dll
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\bin\Debug\net7.0\Evidence pojištěných.exe
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.csproj.AssemblyReference.cache
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.GeneratedMSBuildEditorConfig.editorconfig
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.AssemblyInfoInputs.cache
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.AssemblyInfo.cs
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.csproj.CoreCompileInputs.cache
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.dll
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\refint\Evidence pojištěných.dll
+\\servernas\public\JiriE\Evidence pojištěných\Evidence pojištěných\obj\Debug\net7.0\Evidence pojištěných.pdb
